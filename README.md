@@ -1,2 +1,3 @@
 # weather
-A simple ReactJS weather app
+
+A simple React weather app written in TypeScript
